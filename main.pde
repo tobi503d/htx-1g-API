@@ -55,11 +55,11 @@ void extractData() {
     } else {
         
         //while() {
-            dataHM.put("Definition", jsonDataArray.getString("definition"));
+        //number=array       then turn to objekt         meanings=array     then turn to objekt         number=array       then turn to objekt          definitions=array       then turn to objekt         number=array       then turn to objekt          then dataHM.put("Definition", jsonDataArray.getString("definition"));
+            //dataHM.put("Definition", jsonDataArray.getString("definition"));
             
         //}
     }
 }
 
 
-//number=array       then turn to objekt         meanings=array     then turn to objekt         number=array       then turn to objekt          definitions=array       then turn to objekt         number=array       then turn to objekt          then dataHM.put("Definition", jsonDataArray.getString("definition"));
